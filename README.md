@@ -1,4 +1,4 @@
-<h1 align="left">Hi there👋, I'm Thulasi V</h1>
+<h1 align="left">Hi 👋, I'm Thulasi V</h1>
 <h3 align="left">A passionate frontend developer from India, Bengaluru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thulasivenu&label=Profile%20views&color=0e75b6&style=flat" alt="thulasivenu" /> </p>
@@ -7,10 +7,11 @@
 
 - 📫 How to reach me **thulasivenu16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S0wzaeq8p-Uv0qDcADysDMqDb_4VucvM/view?usp=drive_link] ResumeLink
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S0wzaeq8p-Uv0qDcADysDMqDb_4VucvM/view?usp=drive_link](https://drive.google.com/file/d/1S0wzaeq8p-Uv0qDcADysDMqDb_4VucvM/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thulasi v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thulasi v" height="30" width="40" />LinkedIn</a>
+<a href="https://linkedin.com/in/thulasi v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thulasi v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thulasivenu&show_icons=true&locale=en" alt="thulasivenu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thulasivenu&" alt="thulasivenu" /></p>
+
