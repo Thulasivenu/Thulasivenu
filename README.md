@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Thulasi V</h1>
-<h3 align="center">A passionate frontend developer from India, Bengaluru</h3>
+<h1 align="left">Hi there👋, I'm Thulasi V</h1>
+<h3 align="left">A passionate frontend developer from India, Bengaluru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thulasivenu&label=Profile%20views&color=0e75b6&style=flat" alt="thulasivenu" /> </p>
 
